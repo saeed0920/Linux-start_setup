@@ -16,3 +16,10 @@
 - Brightness
 - Clipboard
 - KeyboardSwitch_Langs
+
+<br/>
+
+#### Little Roadmap
+distros => garuda ,fedora ,parch ,void
+<br/>
+wm or we => xfce ,bspwm ,Herbstluftwm ,dwm ,awesome
