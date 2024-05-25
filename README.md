@@ -1,11 +1,11 @@
 # Linux-start_setup_list :))
 
-### List of firt thing to setup where installing new distro !
+### List of firt thing to setup when installing new distro !
 
 - Fzf [link](https://github.com/junegunn/fzf)
 - Zsh [link](https://ohmyz.sh/)
 - Alacritty [link](https://github.com/alacritty/alacritty) 
-- Lofi [link](https://github.com/davatorium/rofi)
+- Rofi [link](https://github.com/davatorium/rofi)
 - Clipman [link](https://github.com/chmouel/clipman)
 
 
