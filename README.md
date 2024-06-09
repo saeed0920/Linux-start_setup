@@ -20,6 +20,6 @@
 <br/>
 
 #### Little Roadmap
-distros => garuda ,fedora ,parch ,void
+distros => garuda/// ,fedora ,parch ,void
 <br/>
-wm or we => xfce ,bspwm ,Herbstluftwm ,dwm ,awesome
+wm or we => xfce ,bspwm ,Herbstluftwm ,dwm ,awesome ,sway
