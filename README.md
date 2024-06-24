@@ -7,7 +7,7 @@
 - Alacritty [link](https://github.com/alacritty/alacritty) 
 - Rofi [link](https://github.com/davatorium/rofi)
 - Clipman [link](https://github.com/chmouel/clipman)
-
+- Stow [link](https://github.com/aspiers/stow) "Check The Repo of Dotfiles"
 
 ### Configs
 - Touchpad tapping!
