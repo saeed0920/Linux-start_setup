@@ -3,11 +3,12 @@
 ### List of firt thing to setup when installing new distro !
 
 - Fzf [link](https://github.com/junegunn/fzf)
-- Zsh [link](https://ohmyz.sh/)
+- Zsh [link](https://ohmyz.sh/) 
 - Alacritty [link](https://github.com/alacritty/alacritty) 
 - Rofi [link](https://github.com/davatorium/rofi)
 - Clipman [link](https://github.com/chmouel/clipman)
 - Stow [link](https://github.com/aspiers/stow) "Check The Repo of Dotfiles"
+- LunarVim [link](https://www.lunarvim.org] "Check the repo of Dotfiles"
 
 ### Configs
 - Touchpad tapping!
@@ -20,6 +21,6 @@
 <br/>
 
 #### Little Roadmap
-distros => garuda/// ,fedora ,parch ,void
+distros => garuda/// ,fedora ,parch /// ,void
 <br/>
-wm or we => xfce ,bspwm ,Herbstluftwm ,dwm ,awesome ,sway
+wm or we => xfce ,bspwm ,Herbstluftwm ,dwm ,awesome ,sway//
