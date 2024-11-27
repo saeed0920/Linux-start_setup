@@ -15,6 +15,7 @@
 - Bat 
 - NetworkManager Applet
 - Bluetui
+- Green clip(clipBoard) [link][https://github.com/erebe/greenclip]
 
 
 ### Configs
@@ -24,6 +25,9 @@
 - Brightness
 - Clipboard
 - KeyboardSwitch_Langs
+- Plugin for Zsh (suggestion ,syntaxhighligh)
+- Tmux
+- Xrandr
 
 <br/>
 
