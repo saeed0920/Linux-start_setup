@@ -9,6 +9,13 @@
 - Clipman [link](https://github.com/chmouel/clipman)
 - Stow [link](https://github.com/aspiers/stow) "Check The Repo of Dotfiles"
 - LunarVim [link](https://www.lunarvim.org] "Check the repo of Dotfiles"
+- Picom
+- Feh
+- Volctl
+- Bat 
+- NetworkManager Applet
+- Bluetui
+
 
 ### Configs
 - Touchpad tapping!
