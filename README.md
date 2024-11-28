@@ -16,6 +16,7 @@
 - NetworkManager Applet
 - Bluetui
 - Green clip(clipBoard) [link][https://github.com/erebe/greenclip]
+- Reflector [link](https://wiki.archlinux.org/title/Reflector)
 
 
 ### Configs
