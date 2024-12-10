@@ -17,6 +17,7 @@
 - Bluetui
 - Green clip(clipBoard) [link][https://github.com/erebe/greenclip]
 - Reflector [link](https://wiki.archlinux.org/title/Reflector)
+- i3lock-color [link](https://github.com/Raymo111/i3lock-color)
 
 
 ### Configs
