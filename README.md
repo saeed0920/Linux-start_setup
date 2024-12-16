@@ -20,6 +20,8 @@
 - i3lock-color [link](https://github.com/Raymo111/i3lock-color)
 - libinputGestures [link](https://github.com/bulletmark/libinput-gestures)
 - playerctl [link](https://github.com/altdesktop/playerctl)
+- lightdm //sitll working on it 
+- dunst //still working on it 
 
 
 ### Configs
