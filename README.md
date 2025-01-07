@@ -23,7 +23,7 @@
 - i3-battery-popup [link](https://github.com/rjekker/i3-battery-popup)
 - lightdm //sitll working on it 
 - dunst //still working on it
-
+- konsole(terminal)
 
 ### Configs
 - Touchpad tapping!
