@@ -11,7 +11,7 @@
 - LunarVim [link](https://www.lunarvim.org] "Check the repo of Dotfiles"
 - Picom
 - Feh
-- Volctl
+- Volctl => removed!
 - Bat 
 - NetworkManager Applet
 - Bluetui
@@ -22,7 +22,7 @@
 - playerctl [link](https://github.com/altdesktop/playerctl)
 - i3-battery-popup [link](https://github.com/rjekker/i3-battery-popup)
 - lightdm //sitll working on it 
-- dunst //still working on it
+- dunst [link](https://github.com/dunst-project/dunst?tab=readme-ov-file#documentation) <b>For popUp</b>
 - konsole(terminal)
 
 ### Configs
