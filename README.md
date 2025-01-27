@@ -24,6 +24,7 @@
 - lightdm //sitll working on it 
 - dunst [link](https://github.com/dunst-project/dunst?tab=readme-ov-file#documentation) <b>For popUp</b>
 - konsole(terminal)
+- kwallet [link](https://archlinux.org/packages/extra/x86_64/kwallet) //For saving and store the password and wifi and ... 
 
 ### Configs
 - Touchpad tapping!
