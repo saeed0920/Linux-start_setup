@@ -25,6 +25,7 @@
 - dunst [link](https://github.com/dunst-project/dunst?tab=readme-ov-file#documentation) <b>For popUp</b>
 - konsole(terminal)
 - kwallet [link](https://archlinux.org/packages/extra/x86_64/kwallet) //For saving and store the password and wifi and ... 
+- i3status [link](https://github.com/greshake/i3status-rust)
 
 ### Configs
 - Touchpad tapping!
