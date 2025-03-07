@@ -27,6 +27,7 @@
 - kwallet [link](https://archlinux.org/packages/extra/x86_64/kwallet) //For saving and store the password and wifi and ... 
 - i3status [link](https://github.com/greshake/i3status-rust)
 - xkb-switch
+- pasystray [link](https://github.com/christophgysin/pasystray?tab=readme-ov-file)
 
 ### Configs
 - Touchpad tapping!
