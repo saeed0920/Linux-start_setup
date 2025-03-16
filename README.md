@@ -21,11 +21,14 @@
 - libinputGestures [link](https://github.com/bulletmark/libinput-gestures)
 - playerctl [link](https://github.com/altdesktop/playerctl)
 - i3-battery-popup [link](https://github.com/rjekker/i3-battery-popup)
-- lightdm //sitll working on it 
+### Display Manager
+- lightdm => [Github](https://github.com/eromatiya/lightdm-webkit2-theme-glorious)
+- sddm => [Github](https://github.com/Keyitdev/sddm-astronaut-theme) 
+<hr>
 - dunst [link](https://github.com/dunst-project/dunst?tab=readme-ov-file#documentation) <b>For popUp</b>
 - konsole(terminal)
 - kwallet [link](https://archlinux.org/packages/extra/x86_64/kwallet) //For saving and store the password and wifi and ... 
-- i3status [link](https://github.com/greshake/i3status-rust)
+- i3status with rust [link](https://github.com/greshake/i3status-rust)
 - xkb-switch
 - pasystray [link](https://github.com/christophgysin/pasystray?tab=readme-ov-file)
 
