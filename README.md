@@ -16,7 +16,7 @@
 - NetworkManager Applet
 - Bluetui
 - Green clip(clipBoard) [link][https://github.com/erebe/greenclip]
-- Reflector [link](https://wiki.archlinux.org/title/Reflector)
+- Reflector (script for update mirrors) [link](https://wiki.archlinux.org/title/Reflector)
 - i3lock-color [link](https://github.com/Raymo111/i3lock-color)
 - libinputGestures [link](https://github.com/bulletmark/libinput-gestures)
 - playerctl [link](https://github.com/altdesktop/playerctl)
@@ -28,6 +28,11 @@
 - i3status [link](https://github.com/greshake/i3status-rust)
 - xkb-switch
 - pasystray [link](https://github.com/christophgysin/pasystray?tab=readme-ov-file)
+
+
+
+some theme's for the configs : 
+[rofiThemes](https://github.com/newmanls/rofi-themes-collection)
 
 ### Configs
 - Touchpad tapping!
