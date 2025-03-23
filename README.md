@@ -1,3 +1,5 @@
+# This repo was move to dofiles repo!
+
 # Linux-start_setup_list :))
 
 ### List of firt thing to setup when installing new distro !
